@@ -65,15 +65,15 @@
 45.202.247.36:8443#MO澳门自选
 47.57.181.17:443#US美国自选1
 
-cf.tencentapp.cn:443#自选域名1
-www.shopify.com:443#自选域名2
-cf.090227.xyz:2087#自选域名3
-cloudflare.cfgo.cc:2053#自选域名4
-time.is:443#自选域名5
-cf.877774.xyz#自选域名6
-cloudflare.182682.xyz#自选域名7
-cf.3666888.xyz:2096#自选域名8
-cf-cname.xingpingcn.top:2096#自选域名9
-www.visa.cn:443#自选域名Visa
-mfa.gov.ua:443#自选乌克兰外交部
+cf.tencentapp.cn:443#域名自选1
+www.shopify.com:443#域名自选2
+cf.090227.xyz:2087#域名自选3
+cloudflare.cfgo.cc:2053#域名自选4
+time.is:443#域名自选5
+cf.877774.xyz#域名自选6
+cloudflare.182682.xyz#域名自选7
+cf.3666888.xyz:2096#域名自选8
+cf-cname.xingpingcn.top:2096#域名自选9
+www.visa.cn:443#域名自选Visa
+mfa.gov.ua:443#域名自选乌克兰
 
