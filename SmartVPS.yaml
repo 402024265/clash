@@ -24,35 +24,9 @@ SelectDC: &SelectDC {type: select, proxies: [直接连接, 一键智能, 香港�
 # ==================== 代理提供者 ====================
 proxy-providers:
 
-  #VPS订阅源
-  香港VPS优选: {<<: *BaseProvider, url: 'https://dy.5569999.xyz/sub?host=tls.5568999.xyz&uuid=995fc462-71af-4f3d-9441-3d3043ea158e&path=/', override: {additional-prefix: '[A] '}}
-
-  香港VPS: {<<: *BaseProvider, url: 'https://owo.o00o.ooo//sub?host=vps.5568999.xyz&uuid=c892d494-e8a4-4fdc-9d57-652a4e273919&path=/', override: {additional-prefix: '[A] '}}
-
-  日本VPS优选: {<<: *BaseProvider, url: 'https://dy.5568999.xyz/sub?host=vps.5569999.xyz&uuid=80a6e5ce-2ae6-4ece-d6f6-57b7a824957b&path=/', override: {additional-prefix: '[A] '}}
-
-  #香港SNI: {<<: *BaseProvider, url: 'https://dy.5568999.xyz/sub?host=sni.skylee4.cloudns.ch&uuid=06b65903-406d-4a41-8463-6fd5c0ee7798&path=/proxyip=ProxyIP.SG.CMLiussss.net', override: {additional-prefix: '[A] '}}
-
-  #香港ARGO: {<<: *BaseProvider, url: 'https://dy.5568999.xyz/sub?host=argo.5568999.xyz&uuid=43b41e8f-faf3-4bd7-978f-76f233bb3c68&path=%2Fvmess-argo%3Fed%3D2560&sni=argo.5568999.xyz&type=none&alpn=&alterid=0&security=none', override: {additional-prefix: '[A] '}}
-
-  #CF优选订阅源
-  CF订阅: {<<: *BaseProvider, url: 'https://cf.5568999.xyz/sub?token=84d701411bc20ca9e7a507a793af97af&clash', override: {additional-prefix: '[A] '}}
-  #备用ED订阅: {<<: *BaseProvider, url: 'https://cf.5568999.ccwu.cc/sub?token=eb4dd48f4c38b7addfce1ab82dfe916d&clash', override: {additional-prefix: '[B] '}}
-
-  ED订阅: {<<: *BaseProvider, url: 'https://cf.5569999.xyz/sub?token=f5ebdd037ee1cb89dc91e559a938e12e&clash', override: {additional-prefix: '[A] '}}
-  #备用CF订阅: {<<: *BaseProvider, url: 'https://cf.5569999.cc.cd/sub?token=a9cf3522a7111f18934084d684142347&clash', override: {additional-prefix: '[B] '}}
-
-  订阅中心: {<<: *BaseProvider, url: 'https://cf.5568999.cc.cd/mycf/sub?target=clash', override: {additional-prefix: '[B] '}} 
-  Snippets优选: {<<: *BaseProvider, url: 'https://sni.skylee4.cloudns.ch/tset', override: {additional-prefix: '[B] '}}
-  Gist优选: {<<: *BaseProvider, url: 'https://sub.5568999.xyz/token?clash', override: {additional-prefix: '[B] '}}
-
   # 机场订阅源
-  Ash机场: {<<: *BaseProvider, url: 'https://staticasset.flowaccess.org/signal/channel/receiver?token=ee9ad3b2f7a9b8cd7027532b34802a79', override: {additional-prefix: '[B] '}}
+  Ash机场: {<<: *BaseProvider, url: 'https://staticasset.flowaccess.org/signal/channel/receiver, override: {additional-prefix: '[B] '}}
 
-  # Acck订阅源
-  Acck香港: {<<: *BaseProvider, url: 'https://sublink.eooce.com/clash?config=http://45.196.218.180:57384/beAW7HsZKEh8mwAM4gk3hBsu', override: {additional-prefix: '[C] '}}
-  # 备用订阅源 
-  备用服务商lxy: {<<: *BaseProvider, url: 'https://liangxin.xyz/api/v1/liangxin?OwO=2bc2daecef80fda0cfe5f81cc61de9fd', override: {additional-prefix: '[C] '}}
 
 
 # ==================== 核心配置 ====================
