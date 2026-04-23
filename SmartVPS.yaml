@@ -25,7 +25,7 @@ SelectDC: &SelectDC {type: select, proxies: [直接连接, 一键智能, 香港�
 proxy-providers:
 
   # 机场订阅源
-  香港ARGO: {<<: *BaseProvider, url: 'https://dy.5568999.xyz/sub?host=argo.5568999.xyz&uuid=43b41e8f-faf3-4bd7-978f-76f233bb3c68&path=%2Fvmess-argo%3Fed%3D2560&sni=argo.5568999.xyz&type=none&alpn=&alterid=0&security=none', override: {additional-prefix: '[A] '}}
+  ARGO: {<<: *BaseProvider, url: '&type=none&=none', override: {additional-prefix: '[A] '}}
 
 
 # ==================== 核心配置 ====================
@@ -64,7 +64,7 @@ external-ui-url: https://github.com/Zephyruso/zashboard/releases/latest/download
 external-ui-name: zashboard
 external-ui: ui
 external-controller: 127.0.0.1:9090
-secret: Ux971971
+secret: 0000000
 
 # 配置存储
 profile:
