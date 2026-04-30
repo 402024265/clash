@@ -29,12 +29,11 @@
 108.162.196.166:443#JP自选日本29
 104.18.38.133:443#JP自选日本30
 cf1.tencentapp.cn#日本域名1
-bp.hhhhh.eu.org#日本域名2
+staticdelivery.nexusmods.com#日本域名2
 cf2.tencentapp.cn#日本域名3
 youxuan2.cf.090227.xyz#日本域名4
 cm.hhhhh.eu.org#日本域名5
 openai.hhhhh.eu.org#日本域名6
 www.shopify.com#日本域名7
-time.is#日本域名8
-icook.tw#日本域名9
-staticdelivery.nexusmods.com#日本域名10
+
+
