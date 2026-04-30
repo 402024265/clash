@@ -30,3 +30,12 @@
 162.159.8.86:443#HK 香港30
 ctcc.cloudflare.seeck.cn#HK香港域名1
 cloudflare.seeck.cn#HK香港域名2
+saas.sin.fan#香港域名3
+www.visa.cn#visa香港域名4
+mfa.gov.ua#香港域名5
+store.ubi.com#香港域名6
+wto.hhhhh.eu.org#香港域名7
+sy.hhhhh.eu.org#香港域名8
+youxuan1.cf.090227.xyz#香港域名9
+icook.hk#香港域名10
+
