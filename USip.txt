@@ -25,27 +25,45 @@
 45.32.113.29:443#US 美国优选25
 139.180.208.63:443#US 美国优选26
 
-youxuan1.cf.090227.xyz#US 美国域名1
-youxuan2.cf.090227.xyz#US 美国域名2
-cf1.tencentapp.cn#US 美国域名3
-cf2.tencentapp.cn#US 美国域名4
-saas.sin.fan#US 美国域名5
-www.visa.cn#US 美国域名6
-mfa.gov.ua#US 美国域名7
-www.shopify.com#US 美国域名8
-store.ubi.com#US 美国域名9
-staticdelivery.nexusmods.com#US 美国域名10
-time.is#US 美国域名11
-icook.hk#US 美国域名12
-icook.tw#US 美国域名13
-cloudflare.lingyucat.com#US 美国域名14
-ct.cloudflare.lingyucat.com#US 美国域名15
-cm.cloudflare.lingyucat.com#US 美国域名16
-cu.cloudflare.lingyucat.com#US 美国域名17
-cf5.danfeng.eu.org:2053#US 美国域名18
-cf6.danfeng.eu.org:2087#US 美国域名19
-cf7.danfeng.eu.org:2087#US 美国域名20
-vip.cf.3666888.xyz:443#US 美国域名21
-8.cf.3666888.xyz:443#US 美国域名22
-cdn.cf.3666888.xyz:443#US 美国域名23
-www.jimdo.com:443#US 美国域名24
+youxuan1.cf.090227.xyz#US美国域名1
+youxuan2.cf.090227.xyz#US美国域名2
+cf1.tencentapp.cn#US美国域名3
+cf2.tencentapp.cn#US美国域名4
+saas.sin.fan#US美国域名5
+www.visa.cn#US美国域名6
+mfa.gov.ua#US美国域名7
+www.shopify.com#US美国域名8
+store.ubi.com#US美国域名9
+staticdelivery.nexusmods.com#US美国域名10
+time.is#US美国域名11
+icook.hk#US美国域名12
+icook.tw#US美国域名13
+cloudflare.lingyucat.com#US美国域名14
+ct.cloudflare.lingyucat.com#US美国域名15
+cm.cloudflare.lingyucat.com#US美国域名16
+cu.cloudflare.lingyucat.com#US美国域名17
+cf5.danfeng.eu.org:2053#US美国域名18
+cf6.danfeng.eu.org:2087#US美国域名19
+cf7.danfeng.eu.org:2087#US美国域名20
+vip.cf.3666888.xyz:443#US美国域名21
+8.cf.3666888.xyz:443#US美国域名22
+cdn.cf.3666888.xyz:443#US美国域名23
+www.jimdo.com:443#US美国域名24
+store.ubi.com#US美国域名25
+openai.com#US美国域名26
+cf.090227.xyz#US美国域名27
+freeyx.cloudflare88.eu.org#US美国域名28
+cf.zhetengsha.eu.org#US美国域名29
+yg1.ygkkk.dpdns.org#US美国域名30
+yg2.ygkkk.dpdns.org#US美国域名31
+yg3.ygkkk.dpdns.org#US美国域名32
+yg4.ygkkk.dpdns.org#US美国域名33
+yg5.ygkkk.dpdns.org#US美国域名34
+yg6.ygkkk.dpdns.org#US美国域名35
+yg7.ygkkk.dpdns.org#US美国域名36
+yg8.ygkkk.dpdns.org#US美国域名37
+yg9.ygkkk.dpdns.org#US美国域名38
+yg10.ygkkk.dpdns.org#US美国域名39
+yg11.ygkkk.dpdns.org#US美国域名40
+yg12.ygkkk.dpdns.org#US美国域名41
+yg13.ygkkk.dpdns.org#US美国域名42
