@@ -34,27 +34,45 @@
 8.39.125.67:2087#TW 台湾优选34
 8.39.125.201:2053#TW 台湾优选35
 
-youxuan1.cf.090227.xyz#TW 台湾域名1
-youxuan2.cf.090227.xyz#TW 台湾域名2
-cf1.tencentapp.cn#TW 台湾域名3
-cf2.tencentapp.cn#TW 台湾域名4
-saas.sin.fan#TW 台湾域名5
-www.visa.cn#TW 台湾域名6
-mfa.gov.ua#TW 台湾域名7
-www.shopify.com#TW 台湾域名8
-store.ubi.com#TW 台湾域名9
-staticdelivery.nexusmods.com#TW 台湾域名10
-time.is#TW 台湾域名11
-icook.hk#TW 台湾域名12
-icook.tw#TW 台湾域名13
-cloudflare.lingyucat.com#TW 台湾域名14
-ct.cloudflare.lingyucat.com#TW 台湾域名15
-cm.cloudflare.lingyucat.com#TW 台湾域名16
-cu.cloudflare.lingyucat.com#TW 台湾域名17
-cf5.danfeng.eu.org:2053#TW 台湾域名18
-cf6.danfeng.eu.org:2087#TW 台湾域名19
-cf7.danfeng.eu.org:2087#TW 台湾域名20
-vip.cf.3666888.xyz:443#TW 台湾域名21
-8.cf.3666888.xyz:443#TW 台湾域名22
-cdn.cf.3666888.xyz:443#TW 台湾域名23
-www.jimdo.com:443#TW 台湾域名24
+youxuan1.cf.090227.xyz#TW台湾域名1
+youxuan2.cf.090227.xyz#TW台湾域名2
+cf1.tencentapp.cn#TW台湾域名3
+cf2.tencentapp.cn#TW台湾域名4
+saas.sin.fan#TW台湾域名5
+www.visa.cn#TW台湾域名6
+mfa.gov.ua#TW台湾域名7
+www.shopify.com#TW台湾域名8
+store.ubi.com#TW台湾域名9
+staticdelivery.nexusmods.com#TW台湾域名10
+time.is#TW台湾域名11
+icook.hk#TW台湾域名12
+icook.tw#TW台湾域名13
+cloudflare.lingyucat.com#TW台湾域名14
+ct.cloudflare.lingyucat.com#TW台湾域名15
+cm.cloudflare.lingyucat.com#TW台湾域名16
+cu.cloudflare.lingyucat.com#TW台湾域名17
+cf5.danfeng.eu.org:2053#TW台湾域名18
+cf6.danfeng.eu.org:2087#TW台湾域名19
+cf7.danfeng.eu.org:2087#TW台湾域名20
+vip.cf.3666888.xyz:443#TW台湾域名21
+8.cf.3666888.xyz:443#TW台湾域名22
+cdn.cf.3666888.xyz:443#TW台湾域名23
+www.jimdo.com:443#TW台湾域名24
+store.ubi.com#TW台湾域名25
+openai.com#TW台湾域名26
+cf.090227.xyz#TW台湾域名27
+freeyx.cloudflare88.eu.org#TW台湾域名28
+cf.zhetengsha.eu.org#TW台湾域名29
+yg1.ygkkk.dpdns.org#TW台湾域名30
+yg2.ygkkk.dpdns.org#TW台湾域名31
+yg3.ygkkk.dpdns.org#TW台湾域名32
+yg4.ygkkk.dpdns.org#TW台湾域名33
+yg5.ygkkk.dpdns.org#TW台湾域名34
+yg6.ygkkk.dpdns.org#TW台湾域名35
+yg7.ygkkk.dpdns.org#TW台湾域名36
+yg8.ygkkk.dpdns.org#TW台湾域名37
+yg9.ygkkk.dpdns.org#TW台湾域名38
+yg10.ygkkk.dpdns.org#TW台湾域名39
+yg11.ygkkk.dpdns.org#TW台湾域名40
+yg12.ygkkk.dpdns.org#TW台湾域名41
+yg13.ygkkk.dpdns.org#TW台湾域名42
