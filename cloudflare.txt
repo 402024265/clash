@@ -1,4 +1,4 @@
-优选.cf.090227.xyz#JP 日本域名1
+115155.xyz#JP 日本域名1
 8.889288.xyz#JP 日本域名2
 baka.fun#JP 日本域名3
 bestcf.030101.xyz#JP 日本域名4
@@ -8,125 +8,125 @@ cdn.204910.best#JP 日本域名7
 cdn.31514926.xyz#JP 日本域名8
 cdn.7zz.cn#JP 日本域名9
 cdn.tzpro.xyz#JP 日本域名10
-cf.0sm.com #JP 日本域名11
-cf.090227.xyz #JP 日本域名12
-cf.3666888.xyz #JP 日本域名13
-cf.553314.xyz #JP 日本域名14
-cf.877771.xyz #JP 日本域名15
-cf.877774.xyz #JP 日本域名16
-cf-cname.xingpingcn.top #JP 日本域名17
-cf.ircf.space #JP 日本域名18
-cf.mubaiovo.top #JP 日本域名19
-cf.tencentapp.cn #JP 日本域名20
-cf.zhetengsha.eu.org #JP 日本域名21
-cf1.tencentapp.cn #JP 日本域名22
-cf2.tencentapp.cn #JP 日本域名23
-cfip.1323123.xyz #JP 日本域名24
-cfip.cfcdn.vip #JP 日本域名25
-cfip.xxxxxxxx.tk #JP 日本域名26
-cfip-avg.stoeaves.us.ci #JP 日本域名27
-cfip-ct.stoeaves.us.ci #JP 日本域名28
-cfip-cu.stoeaves.us.ci #JP 日本域名29
-cfvip.cf.3666888.xyz #JP 日本域名30
-china-telecom.cname.cloudflare.468123.xyz #JP 日本域名31
-cm.hhhhh.eu.org #JP 日本域名32
-cm.mmhh.eu.cc #JP 日本域名33
-cname.xirancdn.us #JP 日本域名34
-cnamefuckxxs.yuchen.icu #JP 日本域名35
-cnllm.com #JP 日本域名36
-cloudflare.182682.xyz #JP 日本域名37
-cloudflare.468123.xyz #JP 日本域名38
-cloudflare.9jy.cc #JP 日本域名39
-cloudflare.cfgo.cc #JP 日本域名40
-cloudflare-dl.byoip.top #JP 日本域名41
-cloudflare-ip.mofashi.ltd #JP 日本域名42
-cloudflare.lingyucat.com #JP 日本域名43
-cloudflare.rainyfall.com #JP 日本域名44
-cloudflare.seeck.cn #JP 日本域名45
-ct.cloudflare.lingyucat.com #JP 日本域名46
-ctcc.cloudflare.seeck.cn #JP 日本域名47
-cu.cloudflare.lingyucat.com #JP 日本域名48
-dbn.ircf.space #JP 日本域名49
-dx.hhhhh.eu.org #JP 日本域名50
-dx.mmhh.eu.cc #JP 日本域名51
-f3058171cad.002404.xyz #JP 日本域名52
-fnp.ircf.space #JP 日本域名53
-fnv.ircf.space #JP 日本域名54
-freeyx.cloudflare88.eu.org #JP 日本域名55
-fw8je9.cf.3666888.xyz #JP 日本域名56
-hfqek.cf.3666888.xyz #JP 日本域名57
-hwb.ircf.space #JP 日本域名58
-icook.hk #JP 日本域名59
-icook.tw #JP 日本域名60
-ipv4.ircf.space #JP 日本域名61
-ipv6.ircf.space #JP 日本域名62
-keji.cf.3666888.xyz #JP 日本域名63
-laitemi.com #JP 日本域名64
-lt.hhhhh.eu.org #JP 日本域名65
-mbt.ircf.space #JP 日本域名66
-mci.ircf.space #JP 日本域名67
-mfa.gov.ua #JP 日本域名68
-mkh.ircf.space #JP 日本域名69
-mtn.ircf.space #JP 日本域名70
-nrtcfdns.zone.id #JP 日本域名71
-openai.com #JP 日本域名72
-openai.hhhhh.eu.org #JP 日本域名73
-prs.ircf.space #JP 日本域名74
-psm.ircf.space #JP 日本域名75
-ptk.ircf.space #JP 日本域名76
-qms.mmhh.eu.cc #JP 日本域名77
-qocu.cf.3666888.xyz #JP 日本域名78
-rsp.ircf.space #JP 日本域名79
-rtl.ircf.space #JP 日本域名80
-ryn.ircf.space #JP 日本域名81
-saas.sin.fan #JP 日本域名82
-sbn.ircf.space #JP 日本域名83
-sg.cf.3666888.xyz #JP 日本域名84
-shm.ircf.space #JP 日本域名85
-sht.ircf.space #JP 日本域名86
-smt.ircf.space #JP 日本域名87
-speed.marisalnc.com #JP 日本域名88
-staticdelivery.nexusmods.com #JP 日本域名89
-stonexbullion.com #JP 日本域名90
-store.ubi.com #JP 日本域名91
-sy.hhhhh.eu.org #JP 日本域名92
-sy.mmhh.eu.cc #JP 日本域名93
-tajikistan.mfa.gov.ua #JP 日本域名94
-test.509666.xyz #JP 日本域名95
-time.is #JP 日本域名96
-ts.ircf.space #JP 日本域名97
-uac.cf.3666888.xyz #JP 日本域名98
-udp.ircf.space #JP 日本域名99
-visa.com #JP 日本域名100
-vps.cheng2001.top #JP 日本域名101
-wto.hhhhh.eu.org #JP 日本域名102
-www.epicgames.com #JP 日本域名103
-www.jimdo.com #JP 日本域名104
-www.leics.police.uk #JP 日本域名105
-www.mc.js.cool #JP 日本域名106
-www.sage.com #JP 日本域名107
-www.shopify.com #JP 日本域名108
-www.visa.cn #JP 日本域名109
-www.visa.com #JP 日本域名110
-xn--b6gac.eu.org #JP 日本域名111
-yd.hhhhh.eu.org #JP 日本域名112
-yd.mmhh.eu.cc #JP 日本域名113
-yg1.ygkkk.dpdns.org #JP 日本域名114
-yg10.ygkkk.dpdns.org #JP 日本域名115
-yg11.ygkkk.dpdns.org #JP 日本域名116
-yg12.ygkkk.dpdns.org #JP 日本域名117
-yg13.ygkkk.dpdns.org #JP 日本域名118
-yg2.ygkkk.dpdns.org #JP 日本域名119
-yg3.ygkkk.dpdns.org #JP 日本域名120
-yg4.ygkkk.dpdns.org #JP 日本域名121
-yg5.ygkkk.dpdns.org #JP 日本域名122
-yg6.ygkkk.dpdns.org #JP 日本域名123
-yg7.ygkkk.dpdns.org #JP 日本域名124
-yg8.ygkkk.dpdns.org #JP 日本域名125
-yg9.ygkkk.dpdns.org #JP 日本域名126
-youxuan.cf.636949.xyz #JP 日本域名127
-youxuan1.cf.090227.xyz #JP 日本域名128
-youxuan2.cf.090227.xyz #JP 日本域名129
-zeas.top #JP 日本域名130
-ztl.ircf.space #JP 日本域名131
-
+cf.0sm.com#JP 日本域名11
+cf.090227.xyz#JP 日本域名12
+cf.3666888.xyz#JP 日本域名13
+cf.553314.xyz#JP 日本域名14
+cf.877771.xyz#JP 日本域名15
+cf.877774.xyz#JP 日本域名16
+cf-cname.xingpingcn.top#JP 日本域名17
+cf.ircf.space#JP 日本域名18
+cf.mubaiovo.top#JP 日本域名19
+cf.tencentapp.cn#JP 日本域名20
+cf.zhetengsha.eu.org#JP 日本域名21
+cf1.tencentapp.cn#JP 日本域名22
+cf2.tencentapp.cn#JP 日本域名23
+cfip.1323123.xyz#JP 日本域名24
+cfip.cfcdn.vip#JP 日本域名25
+cfip.xxxxxxxx.tk#JP 日本域名26
+cfip-avg.stoeaves.us.ci#JP 日本域名27
+cfip-ct.stoeaves.us.ci#JP 日本域名28
+cfip-cu.stoeaves.us.ci#JP 日本域名29
+cfvip.cf.3666888.xyz#JP 日本域名30
+china-telecom.cname.cloudflare.468123.xyz#JP 日本域名31
+cm.hhhhh.eu.org#JP 日本域名32
+cm.mmhh.eu.cc#JP 日本域名33
+cname.xirancdn.us#JP 日本域名34
+cnamefuckxxs.yuchen.icu#JP 日本域名35
+cnllm.com#JP 日本域名36
+cloudflare.182682.xyz#JP 日本域名37
+cloudflare.468123.xyz#JP 日本域名38
+cloudflare.9jy.cc#JP 日本域名39
+cloudflare.cfgo.cc#JP 日本域名40
+cloudflare-dl.byoip.top#JP 日本域名41
+cloudflare-ip.mofashi.ltd#JP 日本域名42
+cloudflare.lingyucat.com#JP 日本域名43
+cloudflare.rainyfall.com#JP 日本域名44
+cloudflare.seeck.cn#JP 日本域名45
+ct.cloudflare.lingyucat.com#JP 日本域名46
+ctcc.cloudflare.seeck.cn#JP 日本域名47
+cu.cloudflare.lingyucat.com#JP 日本域名48
+dbn.ircf.space#JP 日本域名49
+dx.hhhhh.eu.org#JP 日本域名50
+dx.mmhh.eu.cc#JP 日本域名51
+f3058171cad.002404.xyz#JP 日本域名52
+fnp.ircf.space#JP 日本域名53
+fnv.ircf.space#JP 日本域名54
+freeyx.cloudflare88.eu.org#JP 日本域名55
+fw8je9.cf.3666888.xyz#JP 日本域名56
+hfqek.cf.3666888.xyz#JP 日本域名57
+hwb.ircf.space#JP 日本域名58
+icook.hk#JP 日本域名59
+icook.tw#JP 日本域名60
+ipv4.ircf.space#JP 日本域名61
+ipv6.ircf.space#JP 日本域名62
+keji.cf.3666888.xyz#JP 日本域名63
+laitemi.com#JP 日本域名64
+lt.hhhhh.eu.org#JP 日本域名65
+mbt.ircf.space#JP 日本域名66
+mci.ircf.space#JP 日本域名67
+mfa.gov.ua#JP 日本域名68
+mkh.ircf.space#JP 日本域名69
+mtn.ircf.space#JP 日本域名70
+nrtcfdns.zone.id#JP 日本域名71
+openai.com#JP 日本域名72
+openai.hhhhh.eu.org#JP 日本域名73
+prs.ircf.space#JP 日本域名74
+psm.ircf.space#JP 日本域名75
+ptk.ircf.space#JP 日本域名76
+qms.mmhh.eu.cc#JP 日本域名77
+qocu.cf.3666888.xyz#JP 日本域名78
+rsp.ircf.space#JP 日本域名79
+rtl.ircf.space#JP 日本域名80
+ryn.ircf.space#JP 日本域名81
+saas.sin.fan#JP 日本域名82
+sbn.ircf.space#JP 日本域名83
+sg.cf.3666888.xyz#JP 日本域名84
+shm.ircf.space#JP 日本域名85
+sht.ircf.space#JP 日本域名86
+smt.ircf.space#JP 日本域名87
+speed.marisalnc.com#JP 日本域名88
+staticdelivery.nexusmods.com#JP 日本域名89
+stonexbullion.com#JP 日本域名90
+store.ubi.com#JP 日本域名91
+sy.hhhhh.eu.org#JP 日本域名92
+sy.mmhh.eu.cc#JP 日本域名93
+tajikistan.mfa.gov.ua#JP 日本域名94
+test.509666.xyz#JP 日本域名95
+time.is#JP 日本域名96
+ts.ircf.space#JP 日本域名97
+uac.cf.3666888.xyz#JP 日本域名98
+udp.ircf.space#JP 日本域名99
+visa.com#JP 日本域名100
+vps.cheng2001.top#JP 日本域名101
+wto.hhhhh.eu.org#JP 日本域名102
+www.epicgames.com#JP 日本域名103
+www.jimdo.com#JP 日本域名104
+www.leics.police.uk#JP 日本域名105
+www.mc.js.cool#JP 日本域名106
+www.sage.com#JP 日本域名107
+www.shopify.com#JP 日本域名108
+www.visa.cn#JP 日本域名109
+www.visa.com#JP 日本域名110
+xn--b6gac.eu.org#JP 日本域名111
+yd.hhhhh.eu.org#JP 日本域名112
+yd.mmhh.eu.cc#JP 日本域名113
+yg1.ygkkk.dpdns.org#JP 日本域名114
+yg10.ygkkk.dpdns.org#JP 日本域名115
+yg11.ygkkk.dpdns.org#JP 日本域名116
+yg12.ygkkk.dpdns.org#JP 日本域名117
+yg13.ygkkk.dpdns.org#JP 日本域名118
+yg2.ygkkk.dpdns.org#JP 日本域名119
+yg3.ygkkk.dpdns.org#JP 日本域名120
+yg4.ygkkk.dpdns.org#JP 日本域名121
+yg5.ygkkk.dpdns.org#JP 日本域名122
+yg6.ygkkk.dpdns.org#JP 日本域名123
+yg7.ygkkk.dpdns.org#JP 日本域名124
+yg8.ygkkk.dpdns.org#JP 日本域名125
+yg9.ygkkk.dpdns.org#JP 日本域名126
+youxuan.cf.636949.xyz#JP 日本域名127
+youxuan1.cf.090227.xyz#JP 日本域名128
+youxuan2.cf.090227.xyz#JP 日本域名129
+zeas.top#JP 日本域名130
+ztl.ircf.space#JP 日本域名131
+优选.cf.090227.xyz#JP 日本域名132
