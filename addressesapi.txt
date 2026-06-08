@@ -7,135 +7,134 @@
 47.76.218.163:443#HK香港优选7
 166.88.11.100:23145#HK香港优选8
 
-优选.cf.090227.xyz #HK 香港域名1
-8.889288.xyz #HK 香港域名2
-baka.fun #HK 香港域名3
-bestcf.030101.xyz #HK 香港域名4
-bestcf.top #HK 香港域名5
-cdn.2020111.xyz #HK 香港域名6
-cdn.204910.best #HK 香港域名7
-cdn.31514926.xyz #HK 香港域名8
-cdn.7zz.cn #HK 香港域名9
-cdn.tzpro.xyz #HK 香港域名10
-cf.0sm.com #HK 香港域名11
-cf.090227.xyz #HK 香港域名12
-cf.3666888.xyz #HK 香港域名13
-cf.553314.xyz #HK 香港域名14
-cf.877771.xyz #HK 香港域名15
-cf.877774.xyz #HK 香港域名16
-cf-cname.xingpingcn.top #HK 香港域名17
-cf.ircf.space #HK 香港域名18
-cf.mubaiovo.top #HK 香港域名19
-cf.tencentapp.cn #HK 香港域名20
-cf.zhetengsha.eu.org #HK 香港域名21
-cf1.tencentapp.cn #HK 香港域名22
-cf2.tencentapp.cn #HK 香港域名23
-cfip.1323123.xyz #HK 香港域名24
-cfip.cfcdn.vip #HK 香港域名25
-cfip.xxxxxxxx.tk #HK 香港域名26
-cfip-avg.stoeaves.us.ci #HK 香港域名27
-cfip-ct.stoeaves.us.ci #HK 香港域名28
-cfip-cu.stoeaves.us.ci #HK 香港域名29
-cfvip.cf.3666888.xyz #HK 香港域名30
-china-telecom.cname.cloudflare.468123.xyz #HK 香港域名31
-cm.hhhhh.eu.org #HK 香港域名32
-cm.mmhh.eu.cc #HK 香港域名33
-cname.xirancdn.us #HK 香港域名34
-cnamefuckxxs.yuchen.icu #HK 香港域名35
-cnllm.com #HK 香港域名36
-cloudflare.182682.xyz #HK 香港域名37
-cloudflare.468123.xyz #HK 香港域名38
-cloudflare.9jy.cc #HK 香港域名39
-cloudflare.cfgo.cc #HK 香港域名40
-cloudflare-dl.byoip.top #HK 香港域名41
-cloudflare-ip.mofashi.ltd #HK 香港域名42
-cloudflare.lingyucat.com #HK 香港域名43
-cloudflare.rainyfall.com #HK 香港域名44
-cloudflare.seeck.cn #HK 香港域名45
-ct.cloudflare.lingyucat.com #HK 香港域名46
-ctcc.cloudflare.seeck.cn #HK 香港域名47
-cu.cloudflare.lingyucat.com #HK 香港域名48
-dbn.ircf.space #HK 香港域名49
-dx.hhhhh.eu.org #HK 香港域名50
-dx.mmhh.eu.cc #HK 香港域名51
-f3058171cad.002404.xyz #HK 香港域名52
-fnp.ircf.space #HK 香港域名53
-fnv.ircf.space #HK 香港域名54
-freeyx.cloudflare88.eu.org #HK 香港域名55
-fw8je9.cf.3666888.xyz #HK 香港域名56
-hfqek.cf.3666888.xyz #HK 香港域名57
-hwb.ircf.space #HK 香港域名58
-icook.hk #HK 香港域名59
-icook.tw #HK 香港域名60
-ipv4.ircf.space #HK 香港域名61
-ipv6.ircf.space #HK 香港域名62
-keji.cf.3666888.xyz #HK 香港域名63
-laitemi.com #HK 香港域名64
-lt.hhhhh.eu.org #HK 香港域名65
-mbt.ircf.space #HK 香港域名66
-mci.ircf.space #HK 香港域名67
-mfa.gov.ua #HK 香港域名68
-mkh.ircf.space #HK 香港域名69
-mtn.ircf.space #HK 香港域名70
-nrtcfdns.zone.id #HK 香港域名71
-openai.com #HK 香港域名72
-openai.hhhhh.eu.org #HK 香港域名73
-prs.ircf.space #HK 香港域名74
-psm.ircf.space #HK 香港域名75
-ptk.ircf.space #HK 香港域名76
-qms.mmhh.eu.cc #HK 香港域名77
-qocu.cf.3666888.xyz #HK 香港域名78
-rsp.ircf.space #HK 香港域名79
-rtl.ircf.space #HK 香港域名80
-ryn.ircf.space #HK 香港域名81
-saas.sin.fan #HK 香港域名82
-sbn.ircf.space #HK 香港域名83
-sg.cf.3666888.xyz #HK 香港域名84
-shm.ircf.space #HK 香港域名85
-sht.ircf.space #HK 香港域名86
-smt.ircf.space #HK 香港域名87
-speed.marisalnc.com #HK 香港域名88
-staticdelivery.nexusmods.com #HK 香港域名89
-stonexbullion.com #HK 香港域名90
-store.ubi.com #HK 香港域名91
-sy.hhhhh.eu.org #HK 香港域名92
-sy.mmhh.eu.cc #HK 香港域名93
-tajikistan.mfa.gov.ua #HK 香港域名94
-test.509666.xyz #HK 香港域名95
-time.is #HK 香港域名96
-ts.ircf.space #HK 香港域名97
-uac.cf.3666888.xyz #HK 香港域名98
-udp.ircf.space #HK 香港域名99
-visa.com #HK 香港域名100
-vps.cheng2001.top #HK 香港域名101
-wto.hhhhh.eu.org #HK 香港域名102
-www.epicgames.com #HK 香港域名103
-www.jimdo.com #HK 香港域名104
-www.leics.police.uk #HK 香港域名105
-www.mc.js.cool #HK 香港域名106
-www.sage.com #HK 香港域名107
-www.shopify.com #HK 香港域名108
-www.visa.cn #HK 香港域名109
-www.visa.com #HK 香港域名110
-xn--b6gac.eu.org #HK 香港域名111
-yd.hhhhh.eu.org #HK 香港域名112
-yd.mmhh.eu.cc #HK 香港域名113
-yg1.ygkkk.dpdns.org #HK 香港域名114
-yg10.ygkkk.dpdns.org #HK 香港域名115
-yg11.ygkkk.dpdns.org #HK 香港域名116
-yg12.ygkkk.dpdns.org #HK 香港域名117
-yg13.ygkkk.dpdns.org #HK 香港域名118
-yg2.ygkkk.dpdns.org #HK 香港域名119
-yg3.ygkkk.dpdns.org #HK 香港域名120
-yg4.ygkkk.dpdns.org #HK 香港域名121
-yg5.ygkkk.dpdns.org #HK 香港域名122
-yg6.ygkkk.dpdns.org #HK 香港域名123
-yg7.ygkkk.dpdns.org #HK 香港域名124
-yg8.ygkkk.dpdns.org #HK 香港域名125
-yg9.ygkkk.dpdns.org #HK 香港域名126
-youxuan.cf.636949.xyz #HK 香港域名127
-youxuan1.cf.090227.xyz #HK 香港域名128
-youxuan2.cf.090227.xyz #HK 香港域名129
-zeas.top #HK 香港域名130
-ztl.ircf.space #HK 香港域名131
-
+优选.cf.090227.xyz#HK 香港域名1
+8.889288.xyz#HK 香港域名2
+baka.fun#HK 香港域名3
+bestcf.030101.xyz#HK 香港域名4
+bestcf.top#HK 香港域名5
+cdn.2020111.xyz#HK 香港域名6
+cdn.204910.best#HK 香港域名7
+cdn.31514926.xyz#HK 香港域名8
+cdn.7zz.cn#HK 香港域名9
+cdn.tzpro.xyz#HK 香港域名10
+cf.0sm.com#HK 香港域名11
+cf.090227.xyz#HK 香港域名12
+cf.3666888.xyz#HK 香港域名13
+cf.553314.xyz#HK 香港域名14
+cf.877771.xyz#HK 香港域名15
+cf.877774.xyz#HK 香港域名16
+cf-cname.xingpingcn.top#HK 香港域名17
+cf.ircf.space#HK 香港域名18
+cf.mubaiovo.top#HK 香港域名19
+cf.tencentapp.cn#HK 香港域名20
+cf.zhetengsha.eu.org#HK 香港域名21
+cf1.tencentapp.cn#HK 香港域名22
+cf2.tencentapp.cn#HK 香港域名23
+cfip.1323123.xyz#HK 香港域名24
+cfip.cfcdn.vip#HK 香港域名25
+cfip.xxxxxxxx.tk#HK 香港域名26
+cfip-avg.stoeaves.us.ci#HK 香港域名27
+cfip-ct.stoeaves.us.ci#HK 香港域名28
+cfip-cu.stoeaves.us.ci#HK 香港域名29
+cfvip.cf.3666888.xyz#HK 香港域名30
+china-telecom.cname.cloudflare.468123.xyz#HK 香港域名31
+cm.hhhhh.eu.org#HK 香港域名32
+cm.mmhh.eu.cc#HK 香港域名33
+cname.xirancdn.us#HK 香港域名34
+cnamefuckxxs.yuchen.icu#HK 香港域名35
+cnllm.com#HK 香港域名36
+cloudflare.182682.xyz#HK 香港域名37
+cloudflare.468123.xyz#HK 香港域名38
+cloudflare.9jy.cc#HK 香港域名39
+cloudflare.cfgo.cc#HK 香港域名40
+cloudflare-dl.byoip.top#HK 香港域名41
+cloudflare-ip.mofashi.ltd#HK 香港域名42
+cloudflare.lingyucat.com#HK 香港域名43
+cloudflare.rainyfall.com#HK 香港域名44
+cloudflare.seeck.cn#HK 香港域名45
+ct.cloudflare.lingyucat.com#HK 香港域名46
+ctcc.cloudflare.seeck.cn#HK 香港域名47
+cu.cloudflare.lingyucat.com#HK 香港域名48
+dbn.ircf.space#HK 香港域名49
+dx.hhhhh.eu.org#HK 香港域名50
+dx.mmhh.eu.cc#HK 香港域名51
+f3058171cad.002404.xyz#HK 香港域名52
+fnp.ircf.space#HK 香港域名53
+fnv.ircf.space#HK 香港域名54
+freeyx.cloudflare88.eu.org#HK 香港域名55
+fw8je9.cf.3666888.xyz#HK 香港域名56
+hfqek.cf.3666888.xyz#HK 香港域名57
+hwb.ircf.space#HK 香港域名58
+icook.hk#HK 香港域名59
+icook.tw#HK 香港域名60
+ipv4.ircf.space#HK 香港域名61
+ipv6.ircf.space#HK 香港域名62
+keji.cf.3666888.xyz#HK 香港域名63
+laitemi.com#HK 香港域名64
+lt.hhhhh.eu.org#HK 香港域名65
+mbt.ircf.space#HK 香港域名66
+mci.ircf.space#HK 香港域名67
+mfa.gov.ua#HK 香港域名68
+mkh.ircf.space#HK 香港域名69
+mtn.ircf.space#HK 香港域名70
+nrtcfdns.zone.id#HK 香港域名71
+openai.com#HK 香港域名72
+openai.hhhhh.eu.org#HK 香港域名73
+prs.ircf.space#HK 香港域名74
+psm.ircf.space#HK 香港域名75
+ptk.ircf.space#HK 香港域名76
+qms.mmhh.eu.cc#HK 香港域名77
+qocu.cf.3666888.xyz#HK 香港域名78
+rsp.ircf.space#HK 香港域名79
+rtl.ircf.space#HK 香港域名80
+ryn.ircf.space#HK 香港域名81
+saas.sin.fan#HK 香港域名82
+sbn.ircf.space#HK 香港域名83
+sg.cf.3666888.xyz#HK 香港域名84
+shm.ircf.space#HK 香港域名85
+sht.ircf.space#HK 香港域名86
+smt.ircf.space#HK 香港域名87
+speed.marisalnc.com#HK 香港域名88
+staticdelivery.nexusmods.com#HK 香港域名89
+stonexbullion.com#HK 香港域名90
+store.ubi.com#HK 香港域名91
+sy.hhhhh.eu.org#HK 香港域名92
+sy.mmhh.eu.cc#HK 香港域名93
+tajikistan.mfa.gov.ua#HK 香港域名94
+test.509666.xyz#HK 香港域名95
+time.is#HK 香港域名96
+ts.ircf.space#HK 香港域名97
+uac.cf.3666888.xyz#HK 香港域名98
+udp.ircf.space#HK 香港域名99
+visa.com#HK 香港域名100
+vps.cheng2001.top#HK 香港域名101
+wto.hhhhh.eu.org#HK 香港域名102
+www.epicgames.com#HK 香港域名103
+www.jimdo.com#HK 香港域名104
+www.leics.police.uk#HK 香港域名105
+www.mc.js.cool#HK 香港域名106
+www.sage.com#HK 香港域名107
+www.shopify.com#HK 香港域名108
+www.visa.cn#HK 香港域名109
+www.visa.com#HK 香港域名110
+xn--b6gac.eu.org#HK 香港域名111
+yd.hhhhh.eu.org#HK 香港域名112
+yd.mmhh.eu.cc#HK 香港域名113
+yg1.ygkkk.dpdns.org#HK 香港域名114
+yg10.ygkkk.dpdns.org#HK 香港域名115
+yg11.ygkkk.dpdns.org#HK 香港域名116
+yg12.ygkkk.dpdns.org#HK 香港域名117
+yg13.ygkkk.dpdns.org#HK 香港域名118
+yg2.ygkkk.dpdns.org#HK 香港域名119
+yg3.ygkkk.dpdns.org#HK 香港域名120
+yg4.ygkkk.dpdns.org#HK 香港域名121
+yg5.ygkkk.dpdns.org#HK 香港域名122
+yg6.ygkkk.dpdns.org#HK 香港域名123
+yg7.ygkkk.dpdns.org#HK 香港域名124
+yg8.ygkkk.dpdns.org#HK 香港域名125
+yg9.ygkkk.dpdns.org#HK 香港域名126
+youxuan.cf.636949.xyz#HK 香港域名127
+youxuan1.cf.090227.xyz#HK 香港域名128
+youxuan2.cf.090227.xyz#HK 香港域名129
+zeas.top#HK 香港域名130
+ztl.ircf.space#HK 香港域名131
