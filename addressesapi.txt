@@ -138,5 +138,4 @@ youxuan1.cf.090227.xyz #HK 香港域名128
 youxuan2.cf.090227.xyz #HK 香港域名129
 zeas.top #HK 香港域名130
 ztl.ircf.space #HK 香港域名131
-优选.cf.090227.xyz #HK 香港域名132
 
