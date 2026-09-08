@@ -34,45 +34,134 @@
 8.39.125.67:2087#TW 台湾优选34
 8.39.125.201:2053#TW 台湾优选35
 
-youxuan1.cf.090227.xyz#TW台湾域名1
-youxuan2.cf.090227.xyz#TW台湾域名2
-cf1.tencentapp.cn#TW台湾域名3
-cf2.tencentapp.cn#TW台湾域名4
-saas.sin.fan#TW台湾域名5
-www.visa.cn#TW台湾域名6
-mfa.gov.ua#TW台湾域名7
-www.shopify.com#TW台湾域名8
-store.ubi.com#TW台湾域名9
-staticdelivery.nexusmods.com#TW台湾域名10
-time.is#TW台湾域名11
-icook.hk#TW台湾域名12
-icook.tw#TW台湾域名13
-cloudflare.lingyucat.com#TW台湾域名14
-ct.cloudflare.lingyucat.com#TW台湾域名15
-cm.cloudflare.lingyucat.com#TW台湾域名16
-cu.cloudflare.lingyucat.com#TW台湾域名17
-cf5.danfeng.eu.org:2053#TW台湾域名18
-cf6.danfeng.eu.org:2087#TW台湾域名19
-cf7.danfeng.eu.org:2087#TW台湾域名20
-vip.cf.3666888.xyz:443#TW台湾域名21
-8.cf.3666888.xyz:443#TW台湾域名22
-cdn.cf.3666888.xyz:443#TW台湾域名23
-www.jimdo.com:443#TW台湾域名24
-store.ubi.com#TW台湾域名25
-openai.com#TW台湾域名26
-cf.090227.xyz#TW台湾域名27
-freeyx.cloudflare88.eu.org#TW台湾域名28
-cf.zhetengsha.eu.org#TW台湾域名29
-yg1.ygkkk.dpdns.org#TW台湾域名30
-yg2.ygkkk.dpdns.org#TW台湾域名31
-yg3.ygkkk.dpdns.org#TW台湾域名32
-yg4.ygkkk.dpdns.org#TW台湾域名33
-yg5.ygkkk.dpdns.org#TW台湾域名34
-yg6.ygkkk.dpdns.org#TW台湾域名35
-yg7.ygkkk.dpdns.org#TW台湾域名36
-yg8.ygkkk.dpdns.org#TW台湾域名37
-yg9.ygkkk.dpdns.org#TW台湾域名38
-yg10.ygkkk.dpdns.org#TW台湾域名39
-yg11.ygkkk.dpdns.org#TW台湾域名40
-yg12.ygkkk.dpdns.org#TW台湾域名41
-yg13.ygkkk.dpdns.org#TW台湾域名42
+优选.cf.090227.xyz#TW 台湾域名1
+8.889288.xyz#TW 台湾域名2
+baka.fun#TW 台湾域名3
+bestcf.030101.xyz#TW 台湾域名4
+bestcf.top#TW 台湾域名5
+cdn.2020111.xyz#TW 台湾域名6
+cdn.204910.best#TW 台湾域名7
+cdn.31514926.xyz#TW 台湾域名8
+cdn.7zz.cn#TW 台湾域名9
+cdn.tzpro.xyz#TW 台湾域名10
+cf.0sm.com#TW 台湾域名11
+cf.090227.xyz#TW 台湾域名12
+cf.3666888.xyz#TW 台湾域名13
+cf.553314.xyz#TW 台湾域名14
+cf.877771.xyz#TW 台湾域名15
+cf.877774.xyz#TW 台湾域名16
+cf-cname.xingpingcn.top#TW 台湾域名17
+cf.ircf.space#TW 台湾域名18
+cf.mubaiovo.top#TW 台湾域名19
+cf.tencentapp.cn#TW 台湾域名20
+cf.zhetengsha.eu.org#TW 台湾域名21
+cf1.tencentapp.cn#TW 台湾域名22
+cf2.tencentapp.cn#TW 台湾域名23
+cfip.1323123.xyz#TW 台湾域名24
+cfip.cfcdn.vip#TW 台湾域名25
+cfip.xxxxxxxx.tk#TW 台湾域名26
+cfip-avg.stoeaves.us.ci#TW 台湾域名27
+cfip-ct.stoeaves.us.ci#TW 台湾域名28
+cfip-cu.stoeaves.us.ci#TW 台湾域名29
+cfvip.cf.3666888.xyz#TW 台湾域名30
+china-telecom.cname.cloudflare.468123.xyz#TW 台湾域名31
+cm.hhhhh.eu.org#TW 台湾域名32
+cm.mmhh.eu.cc#TW 台湾域名33
+cname.xirancdn.us#TW 台湾域名34
+cnamefuckxxs.yuchen.icu#TW 台湾域名35
+cnllm.com#TW 台湾域名36
+cloudflare.182682.xyz#TW 台湾域名37
+cloudflare.468123.xyz#TW 台湾域名38
+cloudflare.9jy.cc#TW 台湾域名39
+cloudflare.cfgo.cc#TW 台湾域名40
+cloudflare-dl.byoip.top#TW 台湾域名41
+cloudflare-ip.mofashi.ltd#TW 台湾域名42
+cloudflare.lingyucat.com#TW 台湾域名43
+cloudflare.rainyfall.com#TW 台湾域名44
+cloudflare.seeck.cn#TW 台湾域名45
+ct.cloudflare.lingyucat.com#TW 台湾域名46
+ctcc.cloudflare.seeck.cn#TW 台湾域名47
+cu.cloudflare.lingyucat.com#TW 台湾域名48
+dbn.ircf.space#TW 台湾域名49
+dx.hhhhh.eu.org#TW 台湾域名50
+dx.mmhh.eu.cc#TW 台湾域名51
+f3058171cad.002404.xyz#TW 台湾域名52
+fnp.ircf.space#TW 台湾域名53
+fnv.ircf.space#TW 台湾域名54
+freeyx.cloudflare88.eu.org#TW 台湾域名55
+fw8je9.cf.3666888.xyz#TW 台湾域名56
+hfqek.cf.3666888.xyz#TW 台湾域名57
+hwb.ircf.space#TW 台湾域名58
+icook.hk#TW 台湾域名59
+icook.tw#TW 台湾域名60
+ipv4.ircf.space#TW 台湾域名61
+ipv6.ircf.space#TW 台湾域名62
+keji.cf.3666888.xyz#TW 台湾域名63
+laitemi.com#TW 台湾域名64
+lt.hhhhh.eu.org#TW 台湾域名65
+mbt.ircf.space#TW 台湾域名66
+mci.ircf.space#TW 台湾域名67
+mfa.gov.ua#TW 台湾域名68
+mkh.ircf.space#TW 台湾域名69
+mtn.ircf.space#TW 台湾域名70
+nrtcfdns.zone.id#TW 台湾域名71
+openai.com#TW 台湾域名72
+openai.hhhhh.eu.org#TW 台湾域名73
+prs.ircf.space#TW 台湾域名74
+psm.ircf.space#TW 台湾域名75
+ptk.ircf.space#TW 台湾域名76
+qms.mmhh.eu.cc#TW 台湾域名77
+qocu.cf.3666888.xyz#TW 台湾域名78
+rsp.ircf.space#TW 台湾域名79
+rtl.ircf.space#TW 台湾域名80
+ryn.ircf.space#TW 台湾域名81
+saas.sin.fan#TW 台湾域名82
+sbn.ircf.space#TW 台湾域名83
+sg.cf.3666888.xyz#TW 台湾域名84
+shm.ircf.space#TW 台湾域名85
+sht.ircf.space#TW 台湾域名86
+smt.ircf.space#TW 台湾域名87
+speed.marisalnc.com#TW 台湾域名88
+staticdelivery.nexusmods.com#TW 台湾域名89
+stonexbullion.com#TW 台湾域名90
+store.ubi.com#TW 台湾域名91
+sy.hhhhh.eu.org#TW 台湾域名92
+sy.mmhh.eu.cc#TW 台湾域名93
+tajikistan.mfa.gov.ua#TW 台湾域名94
+test.509666.xyz#TW 台湾域名95
+time.is#TW 台湾域名96
+ts.ircf.space#TW 台湾域名97
+uac.cf.3666888.xyz#TW 台湾域名98
+udp.ircf.space#TW 台湾域名99
+visa.com#TW 台湾域名100
+vps.cheng2001.top#TW 台湾域名101
+wto.hhhhh.eu.org#TW 台湾域名102
+www.epicgames.com#TW 台湾域名103
+www.jimdo.com#TW 台湾域名104
+www.leics.police.uk#TW 台湾域名105
+www.mc.js.cool#TW 台湾域名106
+www.sage.com#TW 台湾域名107
+www.shopify.com#TW 台湾域名108
+www.visa.cn#TW 台湾域名109
+www.visa.com#TW 台湾域名110
+xn--b6gac.eu.org#TW 台湾域名111
+yd.hhhhh.eu.org#TW 台湾域名112
+yd.mmhh.eu.cc#TW 台湾域名113
+yg1.ygkkk.dpdns.org#TW 台湾域名114
+yg10.ygkkk.dpdns.org#TW 台湾域名115
+yg11.ygkkk.dpdns.org#TW 台湾域名116
+yg12.ygkkk.dpdns.org#TW 台湾域名117
+yg13.ygkkk.dpdns.org#TW 台湾域名118
+yg2.ygkkk.dpdns.org#TW 台湾域名119
+yg3.ygkkk.dpdns.org#TW 台湾域名120
+yg4.ygkkk.dpdns.org#TW 台湾域名121
+yg5.ygkkk.dpdns.org#TW 台湾域名122
+yg6.ygkkk.dpdns.org#TW 台湾域名123
+yg7.ygkkk.dpdns.org#TW 台湾域名124
+yg8.ygkkk.dpdns.org#TW 台湾域名125
+yg9.ygkkk.dpdns.org#TW 台湾域名126
+youxuan.cf.636949.xyz#TW 台湾域名127
+youxuan1.cf.090227.xyz#TW 台湾域名128
+youxuan2.cf.090227.xyz#TW 台湾域名129
+zeas.top#TW 台湾域名130
+ztl.ircf.space#TW 台湾域名131
